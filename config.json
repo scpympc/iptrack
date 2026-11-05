@@ -5,13 +5,13 @@
     "author": "scpympc",
     "description": "Registra la dirección IP de los dispositivos y muestra su geolocalización en un mapa.",
     "meshCentralCompat": ">=1.0.0",
-    "homepage": "https://github.com/scpympc/MeshControl-IP-Track",
-    "configUrl": "https://raw.githubusercontent.com/scpympc/MeshControl-IP-Track/main/config.json",
-    "downloadUrl": "https://github.com/scpympc/MeshControl-IP-Track/archive/main.zip",
-    "changelogUrl": "https://raw.githubusercontent.com/scpympc/MeshControl-IP-Track/main/changelog.md",
+    "homepage": "https://github.com/scpympc/iptrack",
+    "configUrl": "https://raw.githubusercontent.com/scpympc/iptrack/main/config.json",
+    "downloadUrl": "https://github.com/scpympc/iptrack/archive/main.zip",
+    "changelogUrl": "https://raw.githubusercontent.com/scpympc/iptrack/main/changelog.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/scpympc/MeshControl-IP-Track.git"
+        "url": "https://github.com/scpympc/iptrack.git"
     },
     "meshcentral": {
         "modules": {
